@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".LoginActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <!--text view log-->
+        <!--<ImageView
+            android:id="@+id/logo"
+            android:layout_width="400dp"
+            android:layout_height="235dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/bgflogo" />
+
+            -->
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="eIdeni BGF "
+            android:textColor="@color/myblue"
+            android:textSize="40dp"
+            android:layout_marginBottom="50dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:text="Log in "
+            android:textAlignment="center"
+            android:textColor="@color/myblue"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <!--edit text for gmail-->
+
+
+
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/logGmail"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/inputsborder"
+            android:drawableStart="@drawable/ic_mail"
+            android:hint="mail"
+            android:inputType="textEmailAddress"
+            android:paddingLeft="10dp"
+            android:textColor="@color/myblue"
+            android:textColorHint="@color/teal_200"
+            android:textSize="14sp" />
+
+
+        <!--edit text for password-->
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/logPassword"
+
+
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/inputsborder"
+            android:drawableStart="@drawable/ic_lock"
+            android:hint="password"
+            android:inputType="textPassword"
+            android:paddingLeft="10dp"
+            android:textColor="@color/myblue"
+            android:textColorHint="@color/teal_200"
+            android:textSize="14sp" />
+
+
+        <!--button for login-->
+        <Button
+            android:id="@+id/logBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="2dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="2dp"
+            android:background="@drawable/buttons_back"
+            android:text="Sign in"
+            android:textAllCaps="false"
+            android:textColor="@color/myblue"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+        <!-- ProgressBar for Loading Time -->
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone" />
+
+        <!--text view for creating a new account   -->
+        <TextView
+            android:id="@+id/idTVNewUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+
+            android:text="register here"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textColor="@color/myblue"
+            android:textSize="12sp" />
+
+        <!--progress-bar for loading indicator-->
+        <ProgressBar
+            android:id="@+id/idPBLoading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:indeterminate="true"
+            android:indeterminateDrawable="@drawable/progress_back"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

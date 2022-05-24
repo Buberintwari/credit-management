@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/client"
+
+        android:title="Clients"
+
+        />
+
+    <item android:id="@+id/analyst"
+        android:title="Analyst"
+
+        />
+
+    <item android:id="@+id/leave"
+        android:icon="@drawable/ic_logout"
+        android:title="log out"
+
+        />
+</menu>

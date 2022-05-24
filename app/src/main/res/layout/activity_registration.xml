@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".RegistrationActivity">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="vertical"
+            android:background="@color/white">
+            <!-- <ImageView
+                android:id="@+id/logo"
+                android:layout_width="1500dp"
+                android:layout_height="120dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/bgflogo"/>
+            -->
+
+            <TextView
+                android:id="@+id/logo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="eIdeni BGF "
+                android:textColor="@color/myblue"
+                android:textSize="50dp"
+                android:layout_marginBottom="50dp"/>
+            <TextView
+                android:id="@+id/welcome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="Sign up"
+                android:textColor="@color/myblue"
+                android:textSize="20dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:orientation="vertical"
+                android:background="@color/white"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="10dp">
+
+                <!-- circle image view to show the image -->
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/regPhoto"
+                    app:civ_border_width= "2dp"
+                    app:civ_border_color= "@color/purple_200"
+                    android:src= "@drawable/ic_photo"
+                    android:layout_centerInParent= "true"
+                    android:layout_gravity="center"
+                    android:layout_width= "150dp"
+                    android:layout_height= "150dp"/>
+
+                <!--edit text for user name-->
+
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/regName"
+                        android:layout_width="match_parent"
+                        android:layout_height="45dp"
+                        android:paddingLeft="10dp"
+                       android:inputType="text"
+                        android:textColor="@color/myblue"
+                        android:hint="full name"
+                        android:textColorHint="@color/teal_200"
+
+                        android:textSize="16sp"
+                        android:drawableStart="@drawable/ic_person"
+                        android:background="@drawable/inputsborder"
+                        android:layout_marginTop="20dp"
+                        android:layout_marginBottom="20dp"/>
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/regId"
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:paddingLeft="10dp"
+                    android:inputType="number"
+                    android:textColor="@color/myblue"
+                    android:hint="identity number"
+                    android:textColorHint="@color/teal_200"
+
+                    android:textSize="16sp"
+                    android:drawableStart="@drawable/ic_dentity"
+                    android:background="@drawable/inputsborder"
+
+                    android:layout_marginBottom="20dp"/>
+
+
+
+                <!--edit text for user contact-->
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/regContact"
+                        android:layout_width="match_parent"
+                        android:layout_height="45dp"
+                        android:paddingLeft="10dp"
+                        android:inputType="number"
+                        android:textColor="@color/myblue"
+                        android:hint="phone number"
+                        android:textColorHint="@color/teal_200"
+
+                        android:textSize="16sp"
+                        android:drawableStart="@drawable/ic_phone"
+                        android:background="@drawable/inputsborder"
+                        android:layout_marginBottom="20dp"/>
+
+
+                <!--edit text for user mail-->
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/regMail"
+                        android:layout_width="match_parent"
+                        android:layout_height="45dp"
+                        android:paddingLeft="10dp"
+                        android:inputType="textEmailAddress"
+                        android:textColor="@color/myblue"
+                        android:hint="mail"
+                        android:textColorHint="@color/teal_200"
+
+                        android:textSize="16sp"
+                        android:drawableStart="@drawable/ic_mail"
+                        android:background="@drawable/inputsborder"
+                        android:layout_marginBottom="20dp"/>
+
+                <!--edit text for user password-->
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/regPassword"
+                        android:layout_width="match_parent"
+                        android:layout_height="45dp"
+                        android:paddingLeft="10dp"
+                        android:inputType="textPassword"
+                        android:textColor="@color/myblue"
+                        android:hint="password"
+                        android:textColorHint="@color/teal_200"
+
+                        android:textSize="16sp"
+                        android:drawableStart="@drawable/ic_lock"
+                        android:background="@drawable/inputsborder"/>
+
+                <!--button for login-->
+                <Button
+                    android:id="@+id/regBtn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginEnd="2dp"
+                    android:background="@drawable/buttons_back"
+                    android:text="Sign up"
+                    android:textSize="15dp"
+                    android:textStyle="bold"
+                    android:textColor="@color/myblue"
+                    android:textAllCaps="false"
+                    />
+                <TextView
+                    android:id="@+id/logUser"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:text="already has account"
+                    android:textAlignment="center"
+                    android:textAllCaps="false"
+                    android:textColor="@color/myblue"
+                    android:textSize="12sp" />
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+
+
+</ScrollView>

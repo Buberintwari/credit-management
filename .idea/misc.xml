@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable-v24/header_background.xml" value="0.118" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable-v24/ic_about.xml" value="0.1" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.119" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable-v24/ic_logout.xml" value="0.1" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable-v24/ic_myfeed.xml" value="0.118" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable-v24/ic_notifications.xml" value="0.1" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable-v24/ic_share.xml" value="0.1" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable-v24/navigation_selector.xml" value="0.118" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable-v24/navigation_view_item_selected.xml" value="0.1" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/boderradius.xml" value="0.12" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/button_back.xml" value="0.119" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/buttons_back.xml" value="0.119" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_add.xml" value="0.1125" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_attachment.xml" value="0.1145" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_back.xml" value="0.1125" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_baseline_description_24.xml" value="0.1145" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_contact.xml" value="0.119" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_delete.xml" value="0.1385" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_dentity.xml" value="0.119" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_info.xml" value="0.117" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.119" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_list.xml" value="0.1125" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_lock.xml" value="0.119" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_logt.xml" value="0.131" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_mail.xml" value="0.119" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_mark_email.xml" value="0.121" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_myback.xml" value="0.1425" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_pdf.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_perm.xml" value="0.119" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_person.xml" value="0.119" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_phone.xml" value="0.119" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_photo.xml" value="0.119" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_search.xml" value="0.125" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_update.xml" value="0.1385" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/ic_user.xml" value="0.1" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/inputsborder.xml" value="0.1" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/progress_back.xml" value="0.119" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/drawable/rounded_drawable.xml" value="0.119" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout-w1240dp/activity_login2.xml" value="0.22" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout-w936dp/activity_login2.xml" value="0.13320463320463322" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/activity_add_analyst.xml" value="0.1796875" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/activity_admin_dashboard.xml" value="0.17692307692307693" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/activity_analyst_admin.xml" value="0.17692307692307693" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/activity_analyst_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/activity_customer.xml" value="0.1796875" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/activity_customer_admin.xml" value="0.17692307692307693" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/activity_login2.xml" value="0.17692307692307693" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/activity_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/activity_read_doc.xml" value="0.1796875" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/activity_registration.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/activity_send_doc.xml" value="0.1796875" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.1796875" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/analyst_dispaly.xml" value="0.1796875" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/client_display.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/customer_display.xml" value="0.1" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/dialog_content.xml" value="0.1796875" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/header.xml" value="0.1796875" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/layout/user_displayed_layout.xml" value="0.1" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/menu/adminmenu.xml" value="0.1796875" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/menu/main_menu.xml" value="0.1796875" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/menu/mysearch.xml" value="0.1796875" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/menu/searchdoc.xml" value="0.1796875" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/menu/searchmenu.xml" value="0.1796875" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/t/AndroidStudioProjects/BGFCreditApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">eIdeni</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string-array name="credittype">
+        <item>Select your credit type </item>
+        <item>Collective credit</item>
+        <item>Discount credit</item>
+        <item>Line credit</item>
+        <item>Discount credit</item>
+        <item>Credit by signature</item>
+        <item>Investment credit</item>
+    </string-array>
+
+
+</resources>

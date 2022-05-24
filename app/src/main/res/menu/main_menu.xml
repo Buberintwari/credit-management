@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_myfeed"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/sentEmail"
+        android:icon="@drawable/ic_mail"
+        android:title="Email"/>
+    <item
+        android:id="@+id/compatible"
+        android:icon="@drawable/ic_phone"
+        android:title="Call"/>
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_person"
+        android:title="Profile"/>
+    <item
+
+
+        android:id="@+id/client"
+        android:icon="@drawable/ic_user"
+        android:title="Clients"/>
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/ic_info"
+        android:title=" More info"/>
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_logout"
+        android:title="Log Out"/>
+
+</menu>
